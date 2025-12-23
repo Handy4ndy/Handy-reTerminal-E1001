@@ -1,6 +1,6 @@
 # ESP32-S3 e-Ink Image Display (reTerminal E1001)
 
-## Why This Code?
+## Overview
 Displays a full-screen monochrome bitmap on the 7.5" e-ink display using GxEPD2. Includes USB serial logging for monitoring.
 
 Benefits:

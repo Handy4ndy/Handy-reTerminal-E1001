@@ -1,6 +1,6 @@
 # ESP32-S3 e-Ink Display Demo (reTerminal E1001)
 
-## Why This Code?
+## Overview
 Demonstrates displaying centered text in multiple font sizes on the 7.5" e-ink display using GxEPD2 library. Includes USB serial logging for monitoring.
 
 Benefits:

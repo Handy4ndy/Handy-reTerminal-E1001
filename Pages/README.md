@@ -1,6 +1,6 @@
 # ESP32-S3 e-Ink Page Navigation (reTerminal E1001)
 
-## Why This Code?
+## Overview
 Implements page navigation with physical buttons on the 7.5" e-ink display. Shows the same bitmap across 4 pages with centered page indicators, color inversion, and buzzer feedback. Uses partial updates for text changes to minimize flashes.
 
 Benefits:

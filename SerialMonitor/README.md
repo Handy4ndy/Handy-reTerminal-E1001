@@ -1,6 +1,6 @@
 # ESP32-S3 USB Serial Logging Setup (reTerminal E1001 / XIAO_ESP32S3)
 
-## Why This Code?
+## Overview
 The reTerminal E1001 uses ESP32-S3 with USB-C for serial communication via USB CDC. Default `Serial` (UART0 on GPIO1/3) isn't USB-connected, causing silent failures. Use `Serial1` remapped to GPIO43 (TX) and GPIO44 (RX) for reliable USB logging in Arduino IDE Serial Monitor.
 
 Benefits:
