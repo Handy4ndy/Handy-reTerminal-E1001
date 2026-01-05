@@ -46,6 +46,16 @@ Dive into practical examples to master the reTerminal E1001:
 - **Key Features**: Partial updates, color inversion, buzzer tones
 - **Use Case**: Multi-page applications with efficient e-ink updates
 
+### [XahauDesktop](XahauDesktop/)
+- **Focus**: Real-time Xahau network stream monitor
+- **Key Features**: WiFi portal setup, WebSocket streaming, transaction visualization, high score tracking
+- **Use Case**: Dedicated Xahau blockchain monitoring with e-ink display
+
+### [XRPLedgerDesktop](XRPLedgerDesktop/)
+- **Focus**: Real-time XRP Ledger stream monitor
+- **Key Features**: WiFi portal setup, WebSocket streaming, transaction visualization, high score tracking
+- **Use Case**: Dedicated XRPL blockchain monitoring with e-ink display
+
 ## 🚀 Getting Started
 
 1. **Install Arduino IDE**: Version 1.8+ from [arduino.cc](https://www.arduino.cc/en/software)
