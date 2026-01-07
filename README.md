@@ -4,9 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A comprehensive collection of Arduino examples for the Seeed Studio reTerminal E1001, featuring a 7.5" e-ink display powered by ESP32-S3. This repository provides hands-on tutorials for button interactions, display rendering, image display, and advanced page navigation with USB serial logging.
+A comprehensive collection of Arduino examples for the Seeed Studio [reTerminal E1001](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/), featuring a 7.5" e-ink display powered by ESP32-S3. This repository provides hands-on tutorials for button interactions, display rendering, image display, and advanced page navigation with USB serial logging.
 
-## 🖥️ reTerminal E1001 Overview
+## 🖥️ [reTerminal E1001](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/) Overview
 
 The reTerminal E1001 is a versatile IoT device ideal for low-power applications:
 
